@@ -9,3 +9,4 @@ To Document a Test Case, simply add the next available filename (for iterating t
 	File Name			Contributor						Description
 	test01.html			Desone Burns II	(dburnsii)		Tests with clean HTML, verifying the program works with good code
 	test02.html			Desone Burns II	(dburnsii)		Tests the functionality of the List checker, verifying it throws an error with a list item outside of a list.
+	test03.html			Patrick Hickey (patrickhickey)	Tests the special entities added to the body of the given test case
