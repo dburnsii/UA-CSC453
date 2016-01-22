@@ -16,3 +16,4 @@ To Document a Test Case, simply add the next available filename (for iterating t
 	test07.html			Patrick Hickey (patrickhickey)	Tests missing closing ol tag
 	test08.html			Patrick Hickey (patrickhickey)	Tests missing closing bold tag
 	test09.html			Patrick Hickey (patrickhickey)	Tests missing closing italics tag
+	test10.html			Dakota Trotter (elidrake)	Tests arbitrary tags
