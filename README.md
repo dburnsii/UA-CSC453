@@ -7,13 +7,6 @@ To Document a Test Case, simply add the next available filename (for iterating t
     
 	Test Cases:
 	File Name			Contributor						Description
-	test01.html			Desone Burns II	(dburnsii)		Tests with clean HTML, verifying the program works with good code
-	test02.html			Desone Burns II	(dburnsii)		Tests the functionality of the List checker, verifying it throws an error with a list item outside of a list.
-	test03.html			Patrick Hickey (patrickhickey)	Tests the special entities added to the body of the given test case
-	test04.html			Patrick Hickey (patrickhickey)	Tests missing closing html tag
-	test05.html			Patrick Hickey (patrickhickey)	Tests missing closing body tag
-	test06.html			Patrick Hickey (patrickhickey)	Tests missing closing ul tag
-	test07.html			Patrick Hickey (patrickhickey)	Tests missing closing ol tag
-	test08.html			Patrick Hickey (patrickhickey)	Tests missing closing bold tag
-	test09.html			Patrick Hickey (patrickhickey)	Tests missing closing italics tag
-	test10.html			Dakota Trotter (elidrake)	Tests arbitrary tags
+	test01.c			Desone Burns II (dburnsii)				Tests with a single function, with a minimal statement.
+	test02.c			Desone Burns II (dburnsii)				Tests with a single simple declaration
+	test03.c			Desone Burns II	(dburnsii)				Tests that multiple declarations can be made (same logic should be inside "func")

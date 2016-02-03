@@ -1,0 +1,3 @@
+char test ( void ) {
+	;
+}
