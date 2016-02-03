@@ -9,4 +9,8 @@ To Document a Test Case, simply add the next available filename (for iterating t
 	File Name			Contributor						Description
 	test01.c			Desone Burns II (dburnsii)				Tests with a single function, with a minimal statement.
 	test02.c			Desone Burns II (dburnsii)				Tests with a single simple declaration
-	test03.c			Desone Burns II	(dburnsii)				Tests that multiple declarations can be made (same logic should be inside "func")
+	test03.c			Desone Burns II	(dburnsii)				Tests that multiple declarations can be made with commas (same logic should be inside "func")
+	test04.c			Desone Burns II (dburnsii)				Tests that compiler can handle multiple separate declarations
+	test05.c			Desone Burns II (dburnsii)				Tests that compiler can handle multiple separate functions
+	test06.c			Desone Burns II (dburnsii)				Tests that compiler can handle combinations of functions and declarations
+	test07.c			Desone Burns II (dburnsii)				Flops the order of test 6
